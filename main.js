@@ -1,3 +1,5 @@
+var hole_obj=""
+var ball_obj=""
 var canvas = new fabric.Canvas('myCanvas');
 
 ball_y = 0;
